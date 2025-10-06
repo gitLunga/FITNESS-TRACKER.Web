@@ -22,7 +22,7 @@ function Login() {
             toast.success("Login was successfully");
         }
         else {
-            toast.warn("user not found");
+            toast.warn("user was not found");
         }
 
 
