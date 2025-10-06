@@ -11,7 +11,7 @@ function Register() {
 
     function submit() {
         if (FirstName === '') {
-            alert('Enter first name');
+            alert('Enter your first name');
             return;
         }
         if (LastName === '') {
