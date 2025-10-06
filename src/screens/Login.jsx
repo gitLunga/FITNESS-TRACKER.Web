@@ -19,7 +19,7 @@ function Login() {
         }
 
         if (isFound) {
-            toast.success("Login successfully");
+            toast.success("Login was successfully");
         }
         else {
             toast.warn("user not found");
